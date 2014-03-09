@@ -1,0 +1,4 @@
+/root/opensim/bin/OpenSim.Addons.Store.Data.MySQL.dll.mdb
+/root/opensim/bin/OpenSim.Addons.Store.Data.MySQL.dll
+/root/opensim/addon-modules/OpenSim.Store.DB/OpenSim.Addons.Store.Data.MySQL/obj/Debug/OpenSim.Addons.Store.Data.MySQL.dll
+/root/opensim/addon-modules/OpenSim.Store.DB/OpenSim.Addons.Store.Data.MySQL/obj/Debug/OpenSim.Addons.Store.Data.MySQL.dll.mdb

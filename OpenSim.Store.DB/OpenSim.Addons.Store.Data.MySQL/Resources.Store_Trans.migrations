@@ -1,0 +1,24 @@
+﻿:VERSION 1         # -------------------------- 
+
+BEGIN;
+
+CREATE TABLE IF NOT EXISTS `store_transactions` (
+  `UUID` varchar(36) NOT NULL,
+  `sender` varchar(36) NOT NULL,
+  `receiver` varchar(36) NOT NULL,
+  `amount` int(10) NOT NULL,
+  `paid` char(16) NOT NULL DEFAULT '0',
+  `offered` char(16) NOT NULL DEFAULT '0',
+  `itemname` varchar(100) NOT NULL DEFAULT '',
+  `result` char(100) NOT NULL,
+  `mbrid` varchar(36) NOT NULL,
+  `mbkey` varchar(36) NOT NULL,
+  `session` varchar(36) NOT NULL,
+  `accepted` char(16) NOT NULL,
+  `declined` char(16) NOT NULL,
+  PRIMARY KEY (`UUID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
+COMMIT;
+
