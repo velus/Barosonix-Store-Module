@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Project frameworkVersion="v3_5" name="OpenSim.Addons.Store" path="addon-modules/OpenSim.Store/OpenSim.Addons.Store" type="Library">
+<Project frameworkVersion="v4_0" name="OpenSim.Addons.Store" path="addon-modules/OpenSim.Store/OpenSim.Addons.Store" type="Library">
      <Configuration name="Debug">
        <Options>
          <OutputPath>../../../bin/</OutputPath>
@@ -27,6 +27,7 @@
      <Reference name="OpenSim.Framework.Servers.HttpServer"/>
      <Reference name="OpenSim.Framework.Statistics"/>
      <Reference name="OpenSim.Framework.Communications"/>
+     <Reference name="OpenSim.Addons.Store.Data.MySQL"/>
      <Reference name="OpenSim.Region.Physics.Manager"/>
      <Reference name="OpenSim.Services.Interfaces"/>
      <Reference name="OpenSim.Services.Connectors"/>
