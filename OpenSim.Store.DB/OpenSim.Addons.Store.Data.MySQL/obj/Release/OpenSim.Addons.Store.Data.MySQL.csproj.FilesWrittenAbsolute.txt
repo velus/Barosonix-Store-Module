@@ -1,3 +1,0 @@
-/home/chris/Desktop/opensim-working/addon-modules/OpenSim.Store.DB/OpenSim.Addons.Store.Data.MySQL/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
-/home/chris/Desktop/opensim-working/bin/OpenSim.Addons.Store.Data.MySQL.dll
-/home/chris/Desktop/opensim-working/addon-modules/OpenSim.Store.DB/OpenSim.Addons.Store.Data.MySQL/obj/Release/OpenSim.Addons.Store.Data.MySQL.dll

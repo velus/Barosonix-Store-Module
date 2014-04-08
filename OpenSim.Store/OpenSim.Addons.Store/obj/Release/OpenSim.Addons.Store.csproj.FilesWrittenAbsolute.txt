@@ -1,3 +1,0 @@
-/home/chris/Desktop/opensim-working/addon-modules/OpenSim.Store/OpenSim.Addons.Store/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
-/home/chris/Desktop/opensim-working/bin/OpenSim.Addons.Store.dll
-/home/chris/Desktop/opensim-working/addon-modules/OpenSim.Store/OpenSim.Addons.Store/obj/Release/OpenSim.Addons.Store.dll
